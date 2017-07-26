@@ -4,6 +4,6 @@
 	width:54vw;
 	height:35vh;
 	margin:auto;
-	background-image:"banner.jpg";
+	background-image:url("banner.jpg");
 	border:2px solid black;
 }
