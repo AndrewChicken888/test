@@ -1,0 +1,19 @@
+/*All programming by Andrew Alban, AndrewChicken*/
+
+#header {
+	width:60vw;
+	height:35vh;
+	margin:auto;
+}
+#banner {
+	width:100%;
+	height:100%;
+	position:relative;
+}
+#subscribe {
+	width:20%;
+	height:5%;
+	position:relative;
+	bottom:0%;
+	left:100%;
+}
